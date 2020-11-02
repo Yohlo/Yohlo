@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Rust, when I can!
 - 📫 How to reach me: [email](mailto:yohlerkyle@gmail.com), [linkedin](https://www.linkedin.com/in/kyle-yohler-a41066138)
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I'm a dog person whose favorite color is red, but I have a cat named Blue!
+- ⚡ Fun fact: I'm a dog person whose favorite color is red, but I have a cat named [Blue](https://github.com/Yohlo/Yohlo/raw/main/blue.jpg)!
 
 ### What I Like Using
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
